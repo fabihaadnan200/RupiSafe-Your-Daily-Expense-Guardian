@@ -1,0 +1,26 @@
+to push github changes: In Terminal :
+1. git add .
+2. git commit -m "Describe your changes"
+3. git push
+________________________________________________________________
+
+firebase connection in backend:
+
+cd D:\Rupisafe_fyp\backend
+python -m venv venv
+venv\Scripts\activate
+python -m pip install --upgrade pip
+pip install firebase-admin --no-cache-dir
+
+_________________________________________________________________
+
+run a server:
+uvicorn main:app --reload
+_________________________________________________________________
+
+if server doesnot work:
+netstat -ano | findstr :9000
+if any task is listening command to kill it, 
+taskkill /PID 14172 /F
+
+__________________________________________________________________

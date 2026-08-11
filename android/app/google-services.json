@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "169260736222",
+    "project_id": "minal-6ede8",
+    "storage_bucket": "minal-6ede8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169260736222:android:dde26e2a9c174b13e8ac4f",
+        "android_client_info": {
+          "package_name": "com.example.fyp_rupisafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqq-d1nYKZd49kqVA7vZBCGNcBT4DEjpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169260736222:android:54d37701bd34364de8ac4f",
+        "android_client_info": {
+          "package_name": "com.example.minal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqq-d1nYKZd49kqVA7vZBCGNcBT4DEjpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

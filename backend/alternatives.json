@@ -1,0 +1,18 @@
+{
+  "Groceries": {
+    "Milk": ["Local milk", "Powdered milk"],
+    "Bread": ["Local bakery bread"]
+  },
+  "Transport": {
+    "Taxi/Uber": ["Public Transit"]
+  },
+  "Dining": {
+    "Fast Food": ["Home cooked meal"]
+  },
+  "Beverages": {
+    "Coffee": ["Home cooked coffee"]
+  },
+  "Shopping": {
+    "Car": ["Rental, second-hand car"]
+  }
+}

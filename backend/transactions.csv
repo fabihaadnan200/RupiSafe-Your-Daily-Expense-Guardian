@@ -1,0 +1,46 @@
+user_id,text,amount,category
+1,Bought milk and bread,500,Groceries
+1,Bought milk and bread,500,Groceries
+1,Bought milk and bread,500,Groceries
+1,Bought milk and bread,500,Groceries
+1,Bought milk and bread,500,Groceries
+1,Bought milk and bread,500,Groceries
+2,bought bread and milk,500,Groceries
+2,Bought bread and milk,500,Groceries
+2,Bought bread and milk,500,Groceries
+2,bought bread and milk,500,Groceries
+2,Bought bread and milk,500,Groceries
+2,bought bread and milk,500,Groceries
+2,Bought bread and milk,500,Groceries
+2,Bought bread and milk,500,Groceries
+2,Bought bread and milk,500,Shopping
+2,brought bread and milk,500,Groceries
+2,bought bread and milk,500,Groceries
+2,bought bread and milk,500,Groceries
+2,bought bread and milk,500,Shopping
+6,bought Bread and Milk,600,Shopping
+6,bought Shampoo,600,Shopping
+5,bread and milk,550,Groceries
+5,bread and milk,550,Shopping
+10,coffee,400,Food
+10,coffee,400,Food
+10,coffee,400,Shopping
+10,coffee,400,Shopping
+10,coffee,400,Shopping
+10,Coffee,400,Shopping
+10,bought coffee,400,Food
+10,bought coffee,400,Shopping
+10,bought coffee,400,Food
+10,Coffee,400,Food
+10,Coffee,400,Shopping
+55,bought milk and bread,600,Groceries
+10,Coffee,400,Food
+55,bought milk and bread,600,Food
+55,bought milk and bread,600,Food
+55,milk,600,Groceries
+55,milk,600,Food
+88,cloths,200,shopping
+88,cloths,2000,Food
+88,cloths,200,shopping
+900,cloths,2000,shopping
+55,car,60000,shopping

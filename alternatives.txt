@@ -1,0 +1,16 @@
+alternatives = {
+    "Groceries": ["Local market", "Discounted brands", "Bulk buying"],
+    "Personal Care": ["Generic brands", "Homemade products", "Discounted stores"],
+    "Beverages": ["Homemade coffee/tea", "Discounted brands", "Bulk packs"],
+    "Dining": ["Home-cooked meal", "Street food", "Budget restaurant"],
+    "Fitness": ["Home workouts", "Yoga apps", "Community park exercise"],
+    "Transport": ["Public transit", "Ride-sharing", "Bicycle"],
+    "Travel": ["Budget airlines", "Hostels", "Travel packages"],
+    "Entertainment": ["Free events", "Streaming free trials", "Public parks/activities"],
+    "Education": ["Online resources", "Library books", "Second-hand materials"],
+    "Hobbies": ["DIY projects", "Community workshops", "Budget supplies"],
+    "Gifts": ["Homemade gifts", "Budget stores", "DIY gift cards"],
+    "Utilities": ["Energy-saving tips", "Pay smaller bills in installments", "Switch providers for discounts"],
+    "Healthcare": ["Generic medicine", "Clinic visits instead of private hospital", "Preventive care at home"],
+    "Shopping": ["Second-hand items", "Discounted stores", "Budget brands"]
+}
